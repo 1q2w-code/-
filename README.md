@@ -1,1 +1,26 @@
-𝑻𝑯𝑰𝑺 𝑰𝑺 𝑾𝑯𝑬𝑹𝑬 𝑼𝑺𝑬𝑹𝑺 𝑺𝑰𝑮𝑵 𝑰𝑵, 𝑳𝑶𝑮 𝑰𝑵 𝑨𝑵𝑫 𝑽𝑬𝑹𝑰𝑭𝒀 𝑨𝑪𝑪𝑶𝑼𝑵𝑻𝑺 𝑨𝑪𝑪𝑹𝑶𝑺𝑺 𝑨𝑳𝑳 𝑶𝑻𝑯𝑬𝑹 𝑵𝑬𝑿𝑶𝑹𝑨 𝑨𝑷𝑷𝑺
+# Nexora ID
+
+Nexora ID is the authentication service for the Nexora ecosystem.
+
+It provides a single account that users can use across all Nexora products.
+
+## Purpose
+
+- User registration
+- User login
+- Account management
+- Authentication
+- Authorization
+- Single Sign-On (SSO)
+
+## Status
+
+🚧 In Development
+
+## Part of the Nexora Ecosystem
+
+- Nexora Forge
+- Nexora Pulse
+- Nexora Arena
+- Nexora Campus
+  
